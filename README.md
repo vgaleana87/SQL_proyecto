@@ -1,7 +1,7 @@
 Introducción
 📊 ¡Sumérgete en el mercado laboral de los datos! Este proyecto, centrado en los puestos de analista de datos, explora 💰 los empleos mejor pagados, 🔥 las habilidades más demandadas y 📈 dónde la alta demanda se combina con los altos salarios en el análisis de datos.
 
-🔍 ¿Consultas SQL? Échales un vistazo aquí: [carpeta project_sql](/project_sql/)
+🔍 ¿Consultas SQL? Échales un vistazo aquí: [carpeta project_sql](SQL_proyecto)
 
 # Antecedentes
 Este proyecto, impulsado por la búsqueda de explorar el mercado laboral de los analistas de datos de manera más eficaz, nació del deseo de identificar las habilidades mejor pagadas y más demandadas, agilizando el trabajo de otros para encontrar los empleos óptimos.
