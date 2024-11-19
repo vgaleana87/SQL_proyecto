@@ -61,7 +61,7 @@ Aquí se muestra el desglose de los mejores trabajos de analista de datos en 202
 - **Empleadores diversos:** Empresas como SmartAsset, Meta y AT&T se encuentran entre las que ofrecen salarios altos, lo que demuestra un amplio interés en diferentes industrias.
 - **Variedad de puestos de trabajo:** Existe una gran diversidad de puestos de trabajo, desde analista de datos hasta director de análisis, lo que refleja diversos roles y especializaciones dentro del análisis de datos.
 
-# Distribución salarial promedio para los 10 trabajos de analista de datos mejor pagados en 2023
+### Distribución salarial promedio para los 10 trabajos de analista de datos mejor pagados en 2023
 
 ![Distribución salarial](distribucion_salarial_2023.png)
 
@@ -106,7 +106,7 @@ Aquí se muestra el desglose de las habilidades más demandadas para los 10 trab
 - **Tableau** también es muy buscado, con un recuento en negrita de 6.
 Otras habilidades como **R**, **Snowflake**, **Pandas** y **Excel** muestran distintos grados de demanda.
 
-# Recuento de habilidades para los 10 trabajos de analista de datos mejor pagados en 2023
+### Recuento de habilidades para los 10 trabajos de analista de datos mejor pagados en 2023
 
 ![Recuento de habilidades](recuento_habilidades_2023.png)
 
