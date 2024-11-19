@@ -63,7 +63,7 @@ Aquí se muestra el desglose de los mejores trabajos de analista de datos en 202
 
 ### Distribución salarial promedio para los 10 trabajos de analista de datos mejor pagados en 2023
 
-![Distribución salarial](distribucion_salarial_2023.png)
+![Distribución salarial](graficos/distribucion_salarial_2023.png)
 
 Este gráfico ilustra los salarios promedio de los 10 trabajos mejor pagados para analistas de datos en 2023, resaltando las oportunidades laborales más lucrativas en el campo de análisis de datos.
 *ChatGPT generó este gráfico a partir de los resultados de mi consulta SQL*
