@@ -61,8 +61,12 @@ Aquí se muestra el desglose de los mejores trabajos de analista de datos en 202
 - **Empleadores diversos:** Empresas como SmartAsset, Meta y AT&T se encuentran entre las que ofrecen salarios altos, lo que demuestra un amplio interés en diferentes industrias.
 - **Variedad de puestos de trabajo:** Existe una gran diversidad de puestos de trabajo, desde analista de datos hasta director de análisis, lo que refleja diversos roles y especializaciones dentro del análisis de datos.
 
-![Puestos mejor pagados](assets/1_top_paying_roles.png)
-*Gráfico de barras que visualiza el salario de los 10 mejores salarios para analistas de datos; ChatGPT generó este gráfico a partir de los resultados de mi consulta SQL*
+# Distribución salarial promedio para los 10 trabajos de analista de datos mejor pagados en 2023
+
+![Distribución salarial](distribucion_salarial_2023.png)
+
+Este gráfico ilustra los salarios promedio de los 10 trabajos mejor pagados para analistas de datos en 2023, resaltando las oportunidades laborales más lucrativas en el campo de análisis de datos.
+*ChatGPT generó este gráfico a partir de los resultados de mi consulta SQL*
 
 ### 2. Habilidades para los trabajos mejor remunerados
 Para entender qué habilidades se requieren para los trabajos mejor remunerados, uní las publicaciones de empleo con los datos de habilidades, lo que brinda información sobre lo que los empleadores valoran para los puestos de alta remuneración.
@@ -102,8 +106,12 @@ Aquí se muestra el desglose de las habilidades más demandadas para los 10 trab
 - **Tableau** también es muy buscado, con un recuento en negrita de 6.
 Otras habilidades como **R**, **Snowflake**, **Pandas** y **Excel** muestran distintos grados de demanda.
 
-![Habilidades mejor pagadas](assets/2_top_paying_roles_skills.png)
-*Gráfico de barras que visualiza el recuento de habilidades para los 10 trabajos mejor pagados para analistas de datos; ChatGPT generó este gráfico a partir de los resultados de mi consulta SQL*
+# Recuento de habilidades para los 10 trabajos de analista de datos mejor pagados en 2023
+
+![Recuento de habilidades](recuento_habilidades_2023.png)
+
+Este gráfico ilustra las habilidades más comunes mencionadas en los trabajos mejor pagados para analistas de datos en 2023, ofreciendo una visión clara de las competencias técnicas más demandadas en este campo.
+*ChatGPT generó este gráfico a partir de los resultados de mi consulta SQL*
 
 ### 3. Habilidades en demanda para analistas de datos
 Esta consulta ayudó a identificar las habilidades solicitadas con más frecuencia en las publicaciones de trabajo, dirigiendo el enfoque a las áreas con alta demanda.
