@@ -9,8 +9,8 @@ Este proyecto, impulsado por la búsqueda de explorar el mercado laboral de los 
 Los datos provienen del Analista de Datos/Youtuber 
 Thanks to Mr.Luke Barousse
 [Curso de SQL](https://lukebarousse.com/sql) 
-[Web Page](https://datanerd.tech/).
-[Canal de Youtube](https://www.youtube.com/@LukeBarousse).
+[Web Page](https://datanerd.tech/)
+[Canal de Youtube](https://www.youtube.com/@LukeBarousse)
 Está repleto de información sobre puestos de trabajo, salarios, ubicaciones y habilidades esenciales.
 
 ### Las preguntas que quería responder a través de mis consultas SQL eran:
