@@ -108,7 +108,7 @@ Otras habilidades como **R**, **Snowflake**, **Pandas** y **Excel** muestran dis
 
 ### Recuento de habilidades para los 10 trabajos de analista de datos mejor pagados en 2023
 
-![Recuento de habilidades](recuento_habilidades_2023.png)
+![Recuento de habilidades](graficos/recuento_habilidades_2023.png)
 
 Este gráfico ilustra las habilidades más comunes mencionadas en los trabajos mejor pagados para analistas de datos en 2023, ofreciendo una visión clara de las competencias técnicas más demandadas en este campo.
 *ChatGPT generó este gráfico a partir de los resultados de mi consulta SQL*
